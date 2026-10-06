@@ -4,10 +4,10 @@
 
 | Archivo | Descripción |
 |---|---|
-| `analisis_the_box.ipynb` | Notebook principal con 11 bloques de análisis |
-| `conclusiones_the_box.md` | Informe autocontenido con metodología, resultados y limitaciones |
+| `analisis_the_box.ipynb` | Notebook Python con 12 bloques (35 celdas, ejecutado completo) |
+| `conclusiones_the_box.md` | Informe generado automáticamente desde los resultados calculados |
 | `outputs/figuras/` | 13 gráficos exportados |
-| `outputs/tablas/` | 8 tablas CSV con resultados |
+| `outputs/tablas/` | 18 tablas CSV con resultados |
 | `the_box_analisis.R` | Script R original de referencia (no modificar) |
 | `BD The Box Presentacion 30.08.xlsx` | Fuente de datos única (no modificar) |
 
@@ -32,12 +32,19 @@ pip install -r requirements.txt
 
 ## Ejecutar el notebook
 
-Abrir `analisis_the_box.ipynb` en VS Code o Jupyter y ejecutar todas las celdas en orden desde un kernel limpio (`Kernel → Restart & Run All`).
+```bash
+jupyter nbconvert --to notebook --execute --inplace \
+    --ExecutePreprocessor.timeout=600 analisis_the_box.ipynb
+```
 
-El notebook guarda automáticamente las figuras en `outputs/figuras/` y las tablas en `outputs/tablas/`.
+O abrir en VS Code/Jupyter y ejecutar `Kernel → Restart & Run All`.
+
+El notebook usa rutas relativas (`Path().resolve()`) y guarda figuras en `outputs/figuras/` y tablas en `outputs/tablas/`.
 
 ## Notas de replicación
 
-- Todos los valores se calculan directamente desde el Excel; los comentados en `the_box_analisis.R` son referencias para contrastar.
-- La discrepancia en crecimiento de venta total (+102.6% Python vs +94.1% R) es metodológicamente esperada: 2026 tiene 2 tiendas nuevas. Ver `outputs/tablas/verificacion_vs_r.csv` para el detalle completo.
-- Los modelos de efectos fijos usan `linearmodels.PanelOLS` (Python) en lugar de `fixest` (R); los resultados son prácticamente idénticos.
+- Todos los valores se calculan desde el Excel; los comentados en `the_box_analisis.R` son referencias para contrastar, **no resultados verificados de ejecución**.
+- **Semana 35 excluida:** solo cubre 2026-08-24 (1 día, flujo=156).
+- **Discrepancia pendiente de verificación:** crecimiento de venta total (Python +102.6% vs R comentario +94.1%) y tiendas comunes (+85.2% vs +75.9%). La diferencia en total se explica en parte por el distinto mix de tiendas (14 en 2025 vs 16 en 2026); la diferencia en comunes requiere ejecutar R para resolver.
+- **Interpretación corregida:** no se detecta asociación lineal entre conversión y cumplimiento de metas (r≈0, p=0.96).
+- Modelos de efectos fijos: `linearmodels.PanelOLS` (Python) vs `fixest` (R). Diferencia de p-valor en M2 (0.048 vs 0.056) se debe a distinta corrección de grados de libertad en varianza agrupada.

@@ -1,6 +1,5 @@
-modelo,n,coef,se,pvalue
-Panel hora FE tienda_hora + fecha,38866,-0.01582958484458256,0.002619476469026272,1.5264471908693622e-09
-Panel semana FE tienda + periodo,1228,-0.0489662929526413,0.0247864085898104,0.0484519072853562
-Corte transversal Pearson,16,-0.37778302074385417,,0.1491150025821297
-Corte transversal Spearman,16,-0.6147058823529412,,0.011279474063305006
-Spearman sin rupturas,14,-0.7582417582417583,,0.0016730034070264247
+Modelo,n,beta,SE,IC_inf,IC_sup,p,FE
+M1 Panel hora,38461,-0.01585,0.00264,-0.02102,-0.01068,1.86e-09,tienda_hora+fecha
+M2 Panel semana,1214,-0.04902,0.02478,-0.09764,-0.0004,0.0482,tienda+periodo
+Pearson CT,16,-0.378,--,--,--,0.1491,--
+Spearman CT,16,-0.615,--,--,--,0.0113,--

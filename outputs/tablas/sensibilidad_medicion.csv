@@ -1,0 +1,5 @@
+Escenario,N_tiendas,conv_real_%,frontera_p90_%,brecha_pp,venta_adicional_MM
+Todas las tiendas,16,6.4823,7.7848,1.3025,7.85
+Sin San Isidro,15,6.4567,7.6323,1.1756,6.9
+Sin Chimbote,15,6.516,7.77,1.254,7.31
+Sin San Isidro ni Chimbote,14,6.4905,7.6119,1.1214,6.36

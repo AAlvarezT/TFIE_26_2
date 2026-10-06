@@ -1,6 +1,7 @@
-regla,filas,flujo,transacciones,venta
-Fuera de horario 10–21,2828,1648.0,3901.0,1356841.28831
-flujo = 0,5088,0.0,9291.0,2915895.39932
-flujo < transacciones,5299,406.0,10054.0,3126655.08151
-Excluidas totales (unión),5956,2050.0,10083.0,3136256.4715299997
-Muestra depurada final,97834,2288120.0,141343.0,45813185.225810006
+Regla,Filas,Flujo,Transacciones,Venta_S/
+Fuera de horario 10-21h,2828,1648,3901,1356841.0
+Flujo = 0 o negativo,5088,0,9291,2915895.0
+Flujo < Transacciones,5299,406,10054,3126655.0
+Semana 35 incompleta (1 dia),1162,23442,1528,512895.0
+Excluidas totales (union),7060,25484,11513,3620154.0
+MUESTRA DEPURADA (dep),96730,2264686,139913,45329287.0

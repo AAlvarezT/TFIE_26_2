@@ -1,0 +1,6 @@
+regla,filas,flujo,transacciones,venta
+Fuera de horario 10–21,2828,1648.0,3901.0,1356841.28831
+flujo = 0,5088,0.0,9291.0,2915895.39932
+flujo < transacciones,5299,406.0,10054.0,3126655.08151
+Excluidas totales (unión),5956,2050.0,10083.0,3136256.4715299997
+Muestra depurada final,97834,2288120.0,141343.0,45813185.225810006

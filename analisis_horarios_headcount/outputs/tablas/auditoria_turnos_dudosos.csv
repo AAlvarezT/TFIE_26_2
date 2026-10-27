@@ -1,0 +1,13 @@
+shift_id,Tienda,Colaborador,Semana ISO,Fecha,Ingreso,Salida,Horas_reportadas,start_dt,end_dt,duracion_reconstruida_h,include_shift,crossed_midnight,flags
+175,TB MPTRU,P011 W.A.M.,34,2026-08-19,23:00,05:00,6.0,2026-08-19 23:00:00,2026-08-20 05:00:00,6.0,True,True,cruza_medianoche
+541,CB PLAQ 1,P074 C.J.V.,35,2026-08-24,22:00,06:00,8.0,2026-08-24 22:00:00,2026-08-25 06:00:00,8.0,True,True,cruza_medianoche
+608,CB PLAQ 1,P074 C.J.V.,35,2026-08-25,22:00,06:00,8.0,2026-08-25 22:00:00,2026-08-26 06:00:00,8.0,True,True,cruza_medianoche
+633,TB MGCHM,P100 N.Q.,35,2026-08-25,18:00,02:00,8.0,2026-08-25 18:00:00,2026-08-26 02:00:00,8.0,True,True,cruza_medianoche
+658,TB RPCIX 1,P077 J.S.C.,35,2026-08-25,14:00,05:30,15.5,2026-08-25 14:00:00,2026-08-26 05:30:00,15.5,True,True,cruza_medianoche
+691,TB MAAQP,P084 C.G.Z.,35,2026-08-26,15:00,00:00,9.0,2026-08-26 15:00:00,2026-08-27 00:00:00,9.0,True,True,cruza_medianoche
+764,TB MAAQP,P090 S.Q.,35,2026-08-27,16:00,00:00,8.0,2026-08-27 16:00:00,2026-08-28 00:00:00,8.0,True,True,cruza_medianoche
+1633,TB RBSB,P045 A.S.,37,2026-09-07,16:00,00:00,8.0,2026-09-07 16:00:00,2026-09-08 00:00:00,8.0,True,True,cruza_medianoche
+1725,CB PLAQ 1,P074 C.J.V.,37,2026-09-09,18:00,02:00,8.0,2026-09-09 18:00:00,2026-09-10 02:00:00,8.0,True,True,cruza_medianoche
+2130,TB MGIND,P026 M.V.S.,38,2026-09-14,14:00,01:00,11.0,2026-09-14 14:00:00,2026-09-15 01:00:00,11.0,True,True,cruza_medianoche
+2239,TB MASA,P088 C.G.R.,38,2026-09-16,14:00,02:00,12.0,2026-09-16 14:00:00,2026-09-17 02:00:00,12.0,True,True,cruza_medianoche
+2282,CB PLAQ 1,P074 C.J.V.,38,2026-09-17,16:00,00:00,8.0,2026-09-17 16:00:00,2026-09-18 00:00:00,8.0,True,True,cruza_medianoche

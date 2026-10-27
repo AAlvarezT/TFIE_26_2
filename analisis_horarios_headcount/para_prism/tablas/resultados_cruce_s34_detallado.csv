@@ -1,0 +1,1362 @@
+Tienda,Fecha,Hora,Flujo,Transacciones,Venta,personas_solapan_hora,horas_persona_programadas,filas_horario,turnos_validos,has_schedule_day,has_valid_shift_day,has_hourly_match,estado_emparejamiento,personas_confirmadas_analisis,horas_persona_confirmadas_analisis,conversion
+TB RPCUS,2026-08-17,8,1,0,0.0,,,4,4,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-17,9,0,1,152.0339,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,
+TB RPCUS,2026-08-17,9,1,0,0.0,,,4,4,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-17,10,21,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-17,10,7,0,0.0,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPCIX 1,2026-08-17,10,10,1,441.01695,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.1
+TB MASA,2026-08-17,10,3,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-17,10,2,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-17,10,5,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-17,10,18,1,548.55933,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB RBSB,2026-08-17,10,3,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-17,10,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-17,10,4,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-17,10,3,1,355.84746,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.3333333333333333
+TB RPCUS,2026-08-17,10,1,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-17,10,3,1,355.84746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB RBBR,2026-08-17,10,3,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-17,10,13,1,355.84746,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.07692307692307693
+TB PCSI,2026-08-17,11,22,1,134.74577,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.045454545454545456
+TB JPSU,2026-08-17,11,16,2,524.77968,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.125
+TB RPCIX 1,2026-08-17,11,5,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-17,11,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-17,11,11,1,424.44068,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MAAQP,2026-08-17,11,7,1,378.76272,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB MPTRU,2026-08-17,11,23,1,355.84746,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.043478260869565216
+TB RBSB,2026-08-17,11,7,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-17,11,9,1,381.18645,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.1111111111111111
+TB RPPUR 1,2026-08-17,11,1,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-17,11,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-17,11,8,1,110.08475,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.125
+TB RPPIU2,2026-08-17,11,10,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-17,11,2,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-17,11,16,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-17,12,11,1,151.69492,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB JPSU,2026-08-17,12,20,0,0.0,5.0,5.0,6,6,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RPCIX 1,2026-08-17,12,8,1,29.57628,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.125
+TB MASA,2026-08-17,12,1,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-17,12,13,1,414.32204,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB MAAQP,2026-08-17,12,8,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-17,12,20,2,381.18645,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB RBSB,2026-08-17,12,11,1,321.94916,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MGIND,2026-08-17,12,10,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-17,12,0,1,59.23729,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,
+TB RPCUS,2026-08-17,12,8,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-17,12,15,2,787.03391,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB MPAQP,2026-08-17,12,5,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-17,12,4,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-17,12,21,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-17,13,7,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-17,13,33,3,1015.16951,5.0,5.0,6,6,True,True,True,coincidencia_encontrada,5.0,5.0,0.09090909090909091
+TB RPCIX 1,2026-08-17,13,17,1,363.55933,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.058823529411764705
+TB MASA,2026-08-17,13,1,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-17,13,7,1,321.94916,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB MAAQP,2026-08-17,13,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-17,13,29,2,1100.67798,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.06896551724137931
+TB RBSB,2026-08-17,13,15,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-17,13,11,3,723.47459,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2727272727272727
+TB RPPUR 1,2026-08-17,13,8,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-17,13,4,1,66.94916,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.25
+TB RPCUS,2026-08-17,13,5,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-17,13,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-17,13,3,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-17,13,6,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-17,13,17,2,797.32204,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.11764705882352941
+TB PCSI,2026-08-17,14,19,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-17,14,30,2,756.69493,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.06666666666666667
+TB RPCIX 1,2026-08-17,14,19,1,451.94916,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.05263157894736842
+TB MASA,2026-08-17,14,1,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-17,14,17,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-17,14,1,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPTRU,2026-08-17,14,30,5,2014.91612,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.16666666666666666
+TB RBSB,2026-08-17,14,14,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB MGIND,2026-08-17,14,4,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-17,14,7,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB RPCUS,2026-08-17,14,9,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1111111111111111
+TB RPPIU2,2026-08-17,14,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-17,14,5,1,507.88136,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB RBBR,2026-08-17,14,1,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-17,14,10,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB PCSI,2026-08-17,15,11,1,601.55933,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB JPSU,2026-08-17,15,19,3,642.28815,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.15789473684210525
+TB RPCIX 1,2026-08-17,15,12,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MASA,2026-08-17,15,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-17,15,22,1,499.1017,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.045454545454545456
+TB MAAQP,2026-08-17,15,5,1,397.37289,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB MPTRU,2026-08-17,15,39,3,1210.03391,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.07692307692307693
+TB RBSB,2026-08-17,15,3,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-17,15,13,1,363.55933,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.07692307692307693
+TB RPPUR 1,2026-08-17,15,18,2,719.32204,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1111111111111111
+TB MGCHM,2026-08-17,15,10,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCUS,2026-08-17,15,12,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-17,15,13,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-17,15,10,1,210.96611,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1
+TB RBBR,2026-08-17,15,5,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-17,15,13,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB PCSI,2026-08-17,16,16,0,0.0,4.0,3.5,4,4,True,True,True,coincidencia_encontrada,4.0,3.5,0.0
+TB JPSU,2026-08-17,16,34,2,741.27119,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.058823529411764705
+TB RPCIX 1,2026-08-17,16,13,3,905.00002,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.23076923076923078
+TB MASA,2026-08-17,16,15,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-17,16,24,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-17,16,7,1,414.35594,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.14285714285714285
+TB MPTRU,2026-08-17,16,41,2,933.33899,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.04878048780487805
+TB RBSB,2026-08-17,16,21,1,550.25424,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB MGIND,2026-08-17,16,5,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-17,16,10,1,398.22,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB MGCHM,2026-08-17,16,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCUS,2026-08-17,16,5,1,584.57628,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB RPPIU2,2026-08-17,16,15,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-17,16,2,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-17,16,6,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-17,16,16,1,355.84746,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0625
+TB PCSI,2026-08-17,17,13,1,338.1356,3.0,2.5,4,4,True,True,True,coincidencia_encontrada,3.0,2.5,0.07692307692307693
+TB JPSU,2026-08-17,17,49,0,0.0,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.0
+TB RPCIX 1,2026-08-17,17,24,2,350.59323,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08333333333333333
+TB MASA,2026-08-17,17,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-17,17,12,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MAAQP,2026-08-17,17,14,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-17,17,42,2,165.00002,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.047619047619047616
+TB RBSB,2026-08-17,17,9,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-17,17,28,1,363.55933,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.03571428571428571
+TB RPPUR 1,2026-08-17,17,10,1,363.55933,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB MGCHM,2026-08-17,17,8,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB RPCUS,2026-08-17,17,23,3,701.61019,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.13043478260869565
+TB RPPIU2,2026-08-17,17,4,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-17,17,3,0,0.0,4.0,3.5,4,4,True,True,True,coincidencia_encontrada,4.0,3.5,0.0
+TB RBBR,2026-08-17,17,12,2,761.77967,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.16666666666666666
+TB LMMIR 2,2026-08-17,17,18,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB PCSI,2026-08-17,18,6,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-17,18,34,1,381.18645,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.029411764705882353
+TB RPCIX 1,2026-08-17,18,39,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-17,18,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-17,18,28,1,355.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.03571428571428571
+TB MAAQP,2026-08-17,18,18,1,474.32204,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.05555555555555555
+TB MPTRU,2026-08-17,18,46,1,402.0339,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.021739130434782608
+TB RBSB,2026-08-17,18,21,1,312.71187,3.0,2.5,3,3,True,True,True,coincidencia_encontrada,3.0,2.5,0.047619047619047616
+TB MGIND,2026-08-17,18,23,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-17,18,23,2,598.55933,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.08695652173913043
+TB MGCHM,2026-08-17,18,11,1,152.0339,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB RPCUS,2026-08-17,18,11,1,253.38984,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB RPPIU2,2026-08-17,18,14,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB MPAQP,2026-08-17,18,20,2,672.11866,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB RBBR,2026-08-17,18,11,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-17,18,17,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB PCSI,2026-08-17,19,3,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB JPSU,2026-08-17,19,43,6,2458.90089,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.13953488372093023
+TB RPCIX 1,2026-08-17,19,23,2,1244.66103,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08695652173913043
+TB MASA,2026-08-17,19,27,2,354.74578,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07407407407407407
+TB MACIX,2026-08-17,19,24,1,727.79662,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.041666666666666664
+TB MAAQP,2026-08-17,19,21,2,211.27119,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.09523809523809523
+TB MPTRU,2026-08-17,19,52,2,1024.40679,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.038461538461538464
+TB RBSB,2026-08-17,19,20,1,422.88136,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.05
+TB MGIND,2026-08-17,19,26,2,906.10136,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB RPPUR 1,2026-08-17,19,9,1,355.0339,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB MGCHM,2026-08-17,19,13,3,965.28899,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.23076923076923078
+TB RPCUS,2026-08-17,19,22,3,796.22883,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.13636363636363635
+TB RPPIU2,2026-08-17,19,25,2,1027.06781,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08
+TB MPAQP,2026-08-17,19,28,2,508.72882,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB RBBR,2026-08-17,19,12,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-17,19,13,2,412.03391,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.15384615384615385
+TB JPSU,2026-08-17,20,44,4,1472.99749,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.09090909090909091
+TB RPCIX 1,2026-08-17,20,29,1,770.93221,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.034482758620689655
+TB MASA,2026-08-17,20,32,6,1721.86409,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.1875
+TB MACIX,2026-08-17,20,49,2,524.49153,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.04081632653061224
+TB MAAQP,2026-08-17,20,8,1,338.1356,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB MPTRU,2026-08-17,20,60,1,363.55933,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.016666666666666666
+TB RBSB,2026-08-17,20,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-17,20,38,1,254.15255,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.02631578947368421
+TB RPPUR 1,2026-08-17,20,14,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-17,20,7,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-17,20,10,1,338.1356,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB RPPIU2,2026-08-17,20,22,1,593.05085,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.045454545454545456
+TB MPAQP,2026-08-17,20,13,1,820.25424,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB RBBR,2026-08-17,20,14,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-17,20,10,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-17,21,2,0,0.0,,,4,4,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB JPSU,2026-08-17,21,29,1,727.11865,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.034482758620689655
+TB RPCIX 1,2026-08-17,21,11,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MASA,2026-08-17,21,3,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-17,21,26,3,1397.28815,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.11538461538461539
+TB MAAQP,2026-08-17,21,6,1,534.23729,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB MPTRU,2026-08-17,21,56,2,786.44069,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.03571428571428571
+TB RBSB,2026-08-17,21,10,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-17,21,19,3,1117.62713,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.15789473684210525
+TB RPPUR 1,2026-08-17,21,10,2,754.06746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MGCHM,2026-08-17,21,8,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-17,21,3,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-17,21,16,1,355.84746,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0625
+TB MPAQP,2026-08-17,21,9,1,412.96611,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB RBBR,2026-08-17,21,10,2,507.88136,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB LMMIR 2,2026-08-17,21,16,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPTRU,2026-08-17,22,0,1,229.15255,,,6,6,True,True,False,cero_confirmado,0.0,0.0,
+TB RPPIU2,2026-08-17,22,0,1,761.01695,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB MPAQP,2026-08-17,22,0,1,238.08475,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB PCSI,2026-08-18,9,0,1,270.25424,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,
+TB RPCUS,2026-08-18,9,2,0,0.0,,,4,4,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-18,10,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-18,10,10,0,0.0,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCIX 1,2026-08-18,10,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-18,10,1,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-18,10,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-18,10,10,0,0.0,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-18,10,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-18,10,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-18,10,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-18,10,5,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPIU2,2026-08-18,10,7,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-18,10,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RBBR,2026-08-18,10,10,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-18,10,5,1,355.84746,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB PCSI,2026-08-18,11,10,2,914.32205,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB JPSU,2026-08-18,11,24,1,355.84746,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.041666666666666664
+TB RPCIX 1,2026-08-18,11,13,2,1040.40679,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.15384615384615385
+TB MASA,2026-08-18,11,8,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-18,11,6,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-18,11,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPTRU,2026-08-18,11,12,0,0.0,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBSB,2026-08-18,11,3,1,169.32204,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.3333333333333333
+TB MGIND,2026-08-18,11,7,1,593.1356,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.14285714285714285
+TB RPPUR 1,2026-08-18,11,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-18,11,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-18,11,8,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPIU2,2026-08-18,11,21,4,1760.00003,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.19047619047619047
+TB MPAQP,2026-08-18,11,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RBBR,2026-08-18,11,4,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-18,11,10,1,355.84746,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.1
+TB PCSI,2026-08-18,12,5,1,374.91526,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB JPSU,2026-08-18,12,9,3,1169.18646,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.3333333333333333
+TB RPCIX 1,2026-08-18,12,5,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-18,12,3,1,333.81356,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB MACIX,2026-08-18,12,8,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-18,12,2,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-18,12,18,1,488.93221,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.05555555555555555
+TB RBSB,2026-08-18,12,12,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-18,12,10,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-18,12,1,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-18,12,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-18,12,6,1,485.08475,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB RPPIU2,2026-08-18,12,12,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-18,12,5,1,549.49153,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB RBBR,2026-08-18,12,4,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-18,12,12,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-18,13,15,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-18,13,19,0,0.0,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCIX 1,2026-08-18,13,14,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-18,13,3,2,381.18645,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.6666666666666666
+TB MACIX,2026-08-18,13,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-18,13,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-18,13,22,0,0.0,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBSB,2026-08-18,13,2,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-18,13,3,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-18,13,5,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-18,13,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-18,13,10,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-18,13,12,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-18,13,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RBBR,2026-08-18,13,1,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-18,13,17,1,804.18645,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.058823529411764705
+TB PCSI,2026-08-18,14,18,1,215.59323,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB JPSU,2026-08-18,14,19,2,1091.77967,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.10526315789473684
+TB RPCIX 1,2026-08-18,14,16,2,736.35594,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB MASA,2026-08-18,14,11,1,338.1356,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MACIX,2026-08-18,14,5,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-18,14,2,1,380.50848,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.5
+TB MPTRU,2026-08-18,14,18,2,1453.59323,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.1111111111111111
+TB RBSB,2026-08-18,14,4,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-18,14,14,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-18,14,5,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-18,14,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCUS,2026-08-18,14,4,1,338.1356,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.25
+TB RPPIU2,2026-08-18,14,7,3,1760.84747,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.42857142857142855
+TB MPAQP,2026-08-18,14,4,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-18,14,9,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-18,14,12,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-18,15,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-18,15,24,2,346.52544,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.08333333333333333
+TB RPCIX 1,2026-08-18,15,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-18,15,5,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-18,15,3,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-18,15,10,1,448.30509,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB MPTRU,2026-08-18,15,25,2,660.08475,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.08
+TB RBSB,2026-08-18,15,10,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-18,15,17,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPUR 1,2026-08-18,15,2,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-18,15,2,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCUS,2026-08-18,15,2,2,126.18645,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,1.0
+TB RPPIU2,2026-08-18,15,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-18,15,2,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBBR,2026-08-18,15,3,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.3333333333333333
+TB LMMIR 2,2026-08-18,15,13,1,363.55933,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.07692307692307693
+TB PCSI,2026-08-18,16,7,1,702.79662,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB JPSU,2026-08-18,16,46,4,1618.81359,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.08695652173913043
+TB RPCIX 1,2026-08-18,16,18,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-18,16,9,1,202.71187,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB MACIX,2026-08-18,16,15,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-18,16,9,2,422.79662,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2222222222222222
+TB MPTRU,2026-08-18,16,46,0,0.0,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.0
+TB RBSB,2026-08-18,16,13,2,67.62712,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.15384615384615385
+TB MGIND,2026-08-18,16,11,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPUR 1,2026-08-18,16,9,1,593.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB MGCHM,2026-08-18,16,3,1,398.22034,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.3333333333333333
+TB RPCUS,2026-08-18,16,14,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-18,16,11,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-18,16,8,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBBR,2026-08-18,16,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-18,16,19,2,561.64408,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.10526315789473684
+TB PCSI,2026-08-18,17,17,2,804.15256,3.0,2.5,3,3,True,True,True,coincidencia_encontrada,3.0,2.5,0.11764705882352941
+TB JPSU,2026-08-18,17,31,3,1642.28815,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.0967741935483871
+TB RPCIX 1,2026-08-18,17,11,2,381.18645,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.18181818181818182
+TB MASA,2026-08-18,17,3,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-18,17,29,1,236.35594,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.034482758620689655
+TB MAAQP,2026-08-18,17,8,3,1042.11866,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.375
+TB MPTRU,2026-08-18,17,53,5,2404.10172,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.09433962264150944
+TB RBSB,2026-08-18,17,21,1,550.76272,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB MGIND,2026-08-18,17,21,1,76.18645,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB RPPUR 1,2026-08-18,17,12,1,59.15255,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.08333333333333333
+TB MGCHM,2026-08-18,17,9,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB RPCUS,2026-08-18,17,6,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-18,17,13,1,380.50848,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.07692307692307693
+TB MPAQP,2026-08-18,17,2,1,363.47458,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.5
+TB RBBR,2026-08-18,17,5,1,253.38984,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB LMMIR 2,2026-08-18,17,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-18,18,7,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-18,18,42,5,3451.69495,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.11904761904761904
+TB RPCIX 1,2026-08-18,18,25,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-18,18,20,1,398.22,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.05
+TB MACIX,2026-08-18,18,17,2,415.00001,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.11764705882352941
+TB MAAQP,2026-08-18,18,15,1,304.23729,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB MPTRU,2026-08-18,18,57,8,3138.59327,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.14035087719298245
+TB RBSB,2026-08-18,18,13,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-18,18,29,2,660.08476,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.06896551724137931
+TB RPPUR 1,2026-08-18,18,13,1,304.23729,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.07692307692307693
+TB MGCHM,2026-08-18,18,5,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB RPCUS,2026-08-18,18,5,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-18,18,23,1,448.30509,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.043478260869565216
+TB MPAQP,2026-08-18,18,19,2,807.03391,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.10526315789473684
+TB RBBR,2026-08-18,18,5,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-18,18,16,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-18,19,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB JPSU,2026-08-18,19,49,4,2384.52546,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.08163265306122448
+TB RPCIX 1,2026-08-18,19,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-18,19,16,1,355.84746,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0625
+TB MACIX,2026-08-18,19,7,2,498.89832,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.2857142857142857
+TB MAAQP,2026-08-18,19,22,5,1996.27122,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.22727272727272727
+TB MPTRU,2026-08-18,19,63,6,2663.76276,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.09523809523809523
+TB RBSB,2026-08-18,19,22,2,415.08475,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MGIND,2026-08-18,19,25,2,557.62713,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08
+TB RPPUR 1,2026-08-18,19,18,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-18,19,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-18,19,18,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-18,19,26,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-18,19,11,2,832.15255,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.18181818181818182
+TB RBBR,2026-08-18,19,25,1,67.71187,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.04
+TB LMMIR 2,2026-08-18,19,23,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB PCSI,2026-08-18,20,1,1,25.33899,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,1.0
+TB JPSU,2026-08-18,20,39,3,1312.03391,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.07692307692307693
+TB RPCIX 1,2026-08-18,20,21,2,1108.72883,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09523809523809523
+TB MASA,2026-08-18,20,9,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-18,20,8,1,355.84746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB MAAQP,2026-08-18,20,5,1,321.18645,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MPTRU,2026-08-18,20,98,6,2318.50849,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.061224489795918366
+TB RBSB,2026-08-18,20,19,2,403.25425,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.10526315789473684
+TB MGIND,2026-08-18,20,33,2,477.88137,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.06060606060606061
+TB RPPUR 1,2026-08-18,20,18,2,346.52544,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB MGCHM,2026-08-18,20,19,1,33.81356,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.05263157894736842
+TB RPCUS,2026-08-18,20,14,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-18,20,14,1,304.23729,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB MPAQP,2026-08-18,20,8,2,427.79662,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.25
+TB RBBR,2026-08-18,20,10,2,557.62713,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB LMMIR 2,2026-08-18,20,17,1,583.30509,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB PCSI,2026-08-18,21,3,0,0.0,,,3,3,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB JPSU,2026-08-18,21,30,2,1168.05086,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB RPCIX 1,2026-08-18,21,25,2,448.93221,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08
+TB MASA,2026-08-18,21,9,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-18,21,27,4,1013.25426,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.14814814814814814
+TB MAAQP,2026-08-18,21,15,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPTRU,2026-08-18,21,30,6,2342.06784,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB RBSB,2026-08-18,21,14,4,1143.76273,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.2857142857142857
+TB MGIND,2026-08-18,21,28,2,642.37289,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB RPPUR 1,2026-08-18,21,10,1,321.18645,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.1
+TB MGCHM,2026-08-18,21,25,2,1304.83052,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08
+TB RPCUS,2026-08-18,21,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-18,21,24,2,1364.06781,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.08333333333333333
+TB MPAQP,2026-08-18,21,4,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-18,21,13,3,683.79663,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.23076923076923078
+TB LMMIR 2,2026-08-18,21,19,1,29.57628,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.05263157894736842
+TB RPCIX 1,2026-08-18,22,0,2,689.66102,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB MAAQP,2026-08-18,22,0,2,827.28814,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB MPTRU,2026-08-18,22,0,1,574.0678,,,6,6,True,True,False,cero_confirmado,0.0,0.0,
+TB RBSB,2026-08-18,22,0,1,338.1356,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB LMMIR 2,2026-08-18,22,0,1,448.30509,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB RPCUS,2026-08-19,8,3,0,0.0,,,3,3,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB RPCUS,2026-08-19,9,2,0,0.0,,,3,3,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-19,10,13,2,736.94917,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.15384615384615385
+TB JPSU,2026-08-19,10,13,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCIX 1,2026-08-19,10,5,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-19,10,7,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-19,10,8,1,25.33899,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB MAAQP,2026-08-19,10,5,1,168.64407,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB MPTRU,2026-08-19,10,14,0,0.0,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBSB,2026-08-19,10,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-19,10,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-19,10,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-19,10,6,0,0.0,,,2,2,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB RPCUS,2026-08-19,10,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPIU2,2026-08-19,10,4,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-19,10,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-19,10,6,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,10,3,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-19,11,8,1,338.1356,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB JPSU,2026-08-19,11,13,1,338.1356,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB RPCIX 1,2026-08-19,11,8,1,593.1356,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.125
+TB MASA,2026-08-19,11,4,1,684.74577,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.25
+TB MACIX,2026-08-19,11,8,1,406.64407,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB MAAQP,2026-08-19,11,4,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPTRU,2026-08-19,11,23,0,0.0,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBSB,2026-08-19,11,3,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-19,11,8,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-19,11,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-19,11,3,0,0.0,,,2,2,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB RPCUS,2026-08-19,11,7,1,466.44068,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.14285714285714285
+TB RPPIU2,2026-08-19,11,7,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-19,11,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-19,11,3,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,11,12,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-19,12,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-19,12,23,1,161.35594,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.043478260869565216
+TB RPCIX 1,2026-08-19,12,12,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-19,12,6,1,321.18645,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB MACIX,2026-08-19,12,9,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-19,12,6,2,575.33984,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB MPTRU,2026-08-19,12,19,2,807.79662,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.10526315789473684
+TB RBSB,2026-08-19,12,7,1,290.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB MGIND,2026-08-19,12,8,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-19,12,4,2,701.69493,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.5
+TB MGCHM,2026-08-19,12,4,0,0.0,,,2,2,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB RPCUS,2026-08-19,12,6,2,685.93221,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB RPPIU2,2026-08-19,12,10,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-19,12,5,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBBR,2026-08-19,12,1,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,12,15,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-19,13,17,1,448.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.058823529411764705
+TB JPSU,2026-08-19,13,23,3,1227.75425,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.13043478260869565
+TB RPCIX 1,2026-08-19,13,9,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-19,13,5,2,1051.77967,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.4
+TB MACIX,2026-08-19,13,16,1,355.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0625
+TB MAAQP,2026-08-19,13,10,1,405.42373,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.1
+TB MPTRU,2026-08-19,13,12,3,1143.05052,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.25
+TB RBSB,2026-08-19,13,8,2,392.03391,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.25
+TB MGIND,2026-08-19,13,8,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-19,13,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-19,13,8,0,0.0,,,2,2,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB RPCUS,2026-08-19,13,5,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-19,13,13,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-19,13,5,1,422.79662,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB RBBR,2026-08-19,13,4,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,13,9,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-19,14,21,1,59.23729,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB JPSU,2026-08-19,14,24,2,685.50849,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.08333333333333333
+TB RPCIX 1,2026-08-19,14,16,2,743.08476,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB MASA,2026-08-19,14,4,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-19,14,11,1,381.18645,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB MAAQP,2026-08-19,14,3,1,152.0339,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.3333333333333333
+TB MPTRU,2026-08-19,14,30,2,269.49154,6.0,6.0,7,7,True,True,True,coincidencia_encontrada,6.0,6.0,0.06666666666666667
+TB RBSB,2026-08-19,14,6,1,371.94916,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB MGIND,2026-08-19,14,8,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPUR 1,2026-08-19,14,10,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-19,14,3,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-19,14,7,1,405.93221,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB RPPIU2,2026-08-19,14,7,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-19,14,8,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB LMMIR 2,2026-08-19,14,12,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-19,15,7,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-19,15,16,1,448.30509,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0625
+TB RPCIX 1,2026-08-19,15,15,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MASA,2026-08-19,15,2,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-19,15,9,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-19,15,2,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPTRU,2026-08-19,15,33,2,1437.54239,6.0,6.0,7,7,True,True,True,coincidencia_encontrada,6.0,6.0,0.06060606060606061
+TB RBSB,2026-08-19,15,4,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-19,15,12,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPUR 1,2026-08-19,15,6,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB MGCHM,2026-08-19,15,8,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-19,15,4,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-19,15,10,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-19,15,7,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-19,15,5,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-19,15,11,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-19,16,10,1,363.55933,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB JPSU,2026-08-19,16,30,3,1383.22035,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.1
+TB RPCIX 1,2026-08-19,16,20,1,443.93187,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.05
+TB MASA,2026-08-19,16,21,3,1040.45764,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB MACIX,2026-08-19,16,9,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-19,16,5,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPTRU,2026-08-19,16,38,0,0.0,5.0,5.0,7,7,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RBSB,2026-08-19,16,13,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-19,16,16,1,338.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0625
+TB RPPUR 1,2026-08-19,16,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-19,16,6,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-19,16,9,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-19,16,8,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-19,16,6,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-19,16,2,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-19,16,6,1,593.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB PCSI,2026-08-19,17,16,2,745.50849,3.0,2.5,3,3,True,True,True,coincidencia_encontrada,3.0,2.5,0.125
+TB JPSU,2026-08-19,17,49,5,2270.42375,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.10204081632653061
+TB RPCIX 1,2026-08-19,17,21,5,1497.03392,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.23809523809523808
+TB MASA,2026-08-19,17,6,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-19,17,18,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-19,17,5,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPTRU,2026-08-19,17,62,4,1505.79664,5.0,5.0,7,7,True,True,True,coincidencia_encontrada,5.0,5.0,0.06451612903225806
+TB RBSB,2026-08-19,17,14,1,93.05085,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB MGIND,2026-08-19,17,31,1,363.55933,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.03225806451612903
+TB RPPUR 1,2026-08-19,17,11,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-19,17,13,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-19,17,7,3,1049.83052,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.42857142857142855
+TB RPPIU2,2026-08-19,17,14,1,418.42373,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB MPAQP,2026-08-19,17,11,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-19,17,9,1,135.45763,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB LMMIR 2,2026-08-19,17,15,1,380.50848,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB PCSI,2026-08-19,18,11,1,702.79662,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB JPSU,2026-08-19,18,48,6,4441.52546,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB RPCIX 1,2026-08-19,18,10,3,1117.11865,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.3
+TB MASA,2026-08-19,18,20,1,321.18645,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.05
+TB MACIX,2026-08-19,18,18,4,807.45766,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2222222222222222
+TB MAAQP,2026-08-19,18,7,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-19,18,47,1,355.84746,5.0,5.0,7,7,True,True,True,coincidencia_encontrada,5.0,5.0,0.02127659574468085
+TB RBSB,2026-08-19,18,11,2,660.08475,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.18181818181818182
+TB MGIND,2026-08-19,18,42,4,1429.5763,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.09523809523809523
+TB RPPUR 1,2026-08-19,18,9,2,760.93222,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2222222222222222
+TB MGCHM,2026-08-19,18,15,2,762.49153,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB RPCUS,2026-08-19,18,5,1,253.38984,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB RPPIU2,2026-08-19,18,12,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-19,18,7,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-19,18,12,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-19,18,10,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-19,19,6,1,550.76272,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.16666666666666666
+TB JPSU,2026-08-19,19,50,3,1167.71188,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.06
+TB RPCIX 1,2026-08-19,19,20,2,610.00001,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.1
+TB MASA,2026-08-19,19,6,1,355.84746,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB MACIX,2026-08-19,19,31,1,355.84746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.03225806451612903
+TB MAAQP,2026-08-19,19,9,1,361.81356,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB MPTRU,2026-08-19,19,57,4,1795.33984,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.07017543859649122
+TB RBSB,2026-08-19,19,17,2,415.08475,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.11764705882352941
+TB MGIND,2026-08-19,19,15,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-19,19,17,1,25.33899,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB MGCHM,2026-08-19,19,11,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-19,19,12,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-19,19,12,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-19,19,5,1,211.01695,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB RBBR,2026-08-19,19,13,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,19,21,1,338.1356,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.047619047619047616
+TB PCSI,2026-08-19,20,7,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB JPSU,2026-08-19,20,29,1,466.01695,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.034482758620689655
+TB RPCIX 1,2026-08-19,20,17,1,29.57628,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB MASA,2026-08-19,20,8,1,363.55933,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB MACIX,2026-08-19,20,15,1,388.89831,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.06666666666666667
+TB MAAQP,2026-08-19,20,11,1,152.37289,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.09090909090909091
+TB MPTRU,2026-08-19,20,62,5,2106.69579,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.08064516129032258
+TB RBSB,2026-08-19,20,10,4,786.86408,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.4
+TB MGIND,2026-08-19,20,18,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-19,20,9,2,710.1695,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2222222222222222
+TB MGCHM,2026-08-19,20,13,2,1189.57628,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.15384615384615385
+TB RPCUS,2026-08-19,20,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-19,20,25,4,2150.42374,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.16
+TB MPAQP,2026-08-19,20,15,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-19,20,5,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,20,19,2,498.3051,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.10526315789473684
+TB JPSU,2026-08-19,21,33,1,338.1356,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.030303030303030304
+TB RPCIX 1,2026-08-19,21,24,1,183.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.041666666666666664
+TB MASA,2026-08-19,21,10,1,355.84746,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.1
+TB MACIX,2026-08-19,21,15,2,879.35679,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB MAAQP,2026-08-19,21,6,1,398.22,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB MPTRU,2026-08-19,21,46,7,2165.96699,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.15217391304347827
+TB RBSB,2026-08-19,21,8,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-19,21,19,1,524.49153,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.05263157894736842
+TB RPPUR 1,2026-08-19,21,8,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-19,21,3,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-19,21,4,3,803.30475,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.75
+TB RPPIU2,2026-08-19,21,11,1,91.01695,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.09090909090909091
+TB MPAQP,2026-08-19,21,12,2,683.38984,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.16666666666666666
+TB RBBR,2026-08-19,21,7,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-19,21,17,1,593.1356,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB MAAQP,2026-08-19,22,0,1,398.22,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB MPTRU,2026-08-19,22,0,1,719.40678,,,7,7,True,True,False,cero_confirmado,0.0,0.0,
+TB RPCUS,2026-08-20,9,2,0,0.0,,,4,4,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-20,10,8,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB JPSU,2026-08-20,10,7,1,363.55933,2.0,2.0,7,7,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB RPCIX 1,2026-08-20,10,8,1,304.0678,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.125
+TB MASA,2026-08-20,10,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MACIX,2026-08-20,10,2,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-20,10,3,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPTRU,2026-08-20,10,23,1,180.45763,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.043478260869565216
+TB RBSB,2026-08-20,10,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-20,10,3,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-20,10,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-20,10,5,1,355.84746,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB RPPIU2,2026-08-20,10,7,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-20,10,4,1,67.71187,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.25
+TB RBBR,2026-08-20,10,1,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-20,10,1,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-20,11,14,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB JPSU,2026-08-20,11,17,1,798.64407,2.0,2.0,7,7,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB RPCIX 1,2026-08-20,11,7,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-20,11,4,1,253.38984,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.25
+TB MACIX,2026-08-20,11,2,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-20,11,3,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPTRU,2026-08-20,11,22,2,465.00001,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB RBSB,2026-08-20,11,2,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-20,11,8,1,456.27119,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.125
+TB RPPUR 1,2026-08-20,11,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-20,11,2,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-20,11,6,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPIU2,2026-08-20,11,11,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-20,11,7,1,355.84746,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.14285714285714285
+TB RBBR,2026-08-20,11,8,1,33.81356,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.125
+TB LMMIR 2,2026-08-20,11,16,1,211.01695,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0625
+TB PCSI,2026-08-20,12,21,2,304.18646,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.09523809523809523
+TB JPSU,2026-08-20,12,27,2,719.40679,3.0,3.0,7,7,True,True,True,coincidencia_encontrada,3.0,3.0,0.07407407407407407
+TB RPCIX 1,2026-08-20,12,7,1,679.0678,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.14285714285714285
+TB MASA,2026-08-20,12,4,2,465.93221,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.5
+TB MACIX,2026-08-20,12,12,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-20,12,12,2,1244.2373,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB MPTRU,2026-08-20,12,22,3,824.4068,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.13636363636363635
+TB RBSB,2026-08-20,12,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-20,12,5,1,253.38984,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB RPPUR 1,2026-08-20,12,7,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-20,12,3,1,321.95,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.3333333333333333
+TB RPCUS,2026-08-20,12,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-20,12,11,3,1295.59324,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2727272727272727
+TB MPAQP,2026-08-20,12,14,2,404.94917,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB RBBR,2026-08-20,12,3,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-20,12,12,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.08333333333333333
+TB PCSI,2026-08-20,13,12,1,388.98306,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.08333333333333333
+TB JPSU,2026-08-20,13,35,2,1186.2712,4.0,4.0,7,7,True,True,True,coincidencia_encontrada,4.0,4.0,0.05714285714285714
+TB RPCIX 1,2026-08-20,13,15,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-20,13,6,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-20,13,16,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-20,13,8,2,1480.67798,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.25
+TB MPTRU,2026-08-20,13,14,1,363.55933,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB RBSB,2026-08-20,13,16,2,67.62712,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB MGIND,2026-08-20,13,3,1,160.88136,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB RPPUR 1,2026-08-20,13,9,2,618.47459,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2222222222222222
+TB MGCHM,2026-08-20,13,4,1,59.23729,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.25
+TB RPCUS,2026-08-20,13,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-20,13,14,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB MPAQP,2026-08-20,13,6,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-20,13,5,2,54.91527,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.4
+TB LMMIR 2,2026-08-20,13,12,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB PCSI,2026-08-20,14,22,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-20,14,29,0,0.0,7.0,7.0,7,7,True,True,True,coincidencia_encontrada,7.0,7.0,0.0
+TB RPCIX 1,2026-08-20,14,13,2,457.3729,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.15384615384615385
+TB MASA,2026-08-20,14,7,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB MACIX,2026-08-20,14,11,1,593.1356,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB MAAQP,2026-08-20,14,3,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPTRU,2026-08-20,14,18,2,457.3729,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.1111111111111111
+TB RBSB,2026-08-20,14,13,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-20,14,5,0,0.0,3.0,2.5,3,3,True,True,True,coincidencia_encontrada,3.0,2.5,0.0
+TB MGCHM,2026-08-20,14,2,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-20,14,6,1,304.23729,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.16666666666666666
+TB RPPIU2,2026-08-20,14,9,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-20,14,12,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBBR,2026-08-20,14,2,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-20,14,21,3,964.57629,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB PCSI,2026-08-20,15,8,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-20,15,32,3,1087.06782,7.0,7.0,7,7,True,True,True,coincidencia_encontrada,7.0,7.0,0.09375
+TB RPCIX 1,2026-08-20,15,19,1,321.94916,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.05263157894736842
+TB MASA,2026-08-20,15,1,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-20,15,22,2,752.45764,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB MAAQP,2026-08-20,15,5,1,338.1356,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB MPTRU,2026-08-20,15,34,2,769.74578,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.058823529411764705
+TB RBSB,2026-08-20,15,7,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-20,15,22,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPUR 1,2026-08-20,15,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-20,15,3,1,33.72882,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB RPCUS,2026-08-20,15,16,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-20,15,13,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-20,15,7,1,338.1356,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.14285714285714285
+TB RBBR,2026-08-20,15,2,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-20,15,18,1,355.84746,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB PCSI,2026-08-20,16,12,2,871.94916,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.16666666666666666
+TB JPSU,2026-08-20,16,20,1,427.79628,7.0,7.0,7,7,True,True,True,coincidencia_encontrada,7.0,7.0,0.05
+TB RPCIX 1,2026-08-20,16,10,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-20,16,16,2,736.18645,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB MACIX,2026-08-20,16,15,3,2767.28814,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB MAAQP,2026-08-20,16,12,2,1208.47459,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.16666666666666666
+TB MPTRU,2026-08-20,16,40,5,2180.45766,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.125
+TB RBSB,2026-08-20,16,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-20,16,12,1,304.23729,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.08333333333333333
+TB RPPUR 1,2026-08-20,16,8,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGCHM,2026-08-20,16,10,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-20,16,14,5,1466.94917,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.35714285714285715
+TB RPPIU2,2026-08-20,16,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPAQP,2026-08-20,16,8,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-20,16,1,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-20,16,18,1,786.44068,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB PCSI,2026-08-20,17,11,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-20,17,25,1,587.54238,7.0,7.0,7,7,True,True,True,coincidencia_encontrada,7.0,7.0,0.04
+TB RPCIX 1,2026-08-20,17,10,2,815.71187,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MASA,2026-08-20,17,10,3,770.20341,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.3
+TB MACIX,2026-08-20,17,17,3,1379.57629,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.17647058823529413
+TB MAAQP,2026-08-20,17,14,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-20,17,47,1,635.42373,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.02127659574468085
+TB RBSB,2026-08-20,17,14,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-20,17,24,4,1379.49154,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB RPPUR 1,2026-08-20,17,13,2,948.98306,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.15384615384615385
+TB MGCHM,2026-08-20,17,15,2,177.79662,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.13333333333333333
+TB RPCUS,2026-08-20,17,12,2,719.40679,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.16666666666666666
+TB RPPIU2,2026-08-20,17,27,1,785.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.037037037037037035
+TB MPAQP,2026-08-20,17,6,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-20,17,4,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-20,17,22,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-20,18,12,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-20,18,54,2,736.35594,7.0,7.0,7,7,True,True,True,coincidencia_encontrada,7.0,7.0,0.037037037037037035
+TB RPCIX 1,2026-08-20,18,16,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-20,18,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-20,18,13,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MAAQP,2026-08-20,18,16,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-20,18,70,8,2809.49242,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.11428571428571428
+TB RBSB,2026-08-20,18,12,2,506.1017,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB MGIND,2026-08-20,18,12,3,1295.50849,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.25
+TB RPPUR 1,2026-08-20,18,11,3,795.96612,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2727272727272727
+TB MGCHM,2026-08-20,18,9,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-20,18,7,2,792.71188,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2857142857142857
+TB RPPIU2,2026-08-20,18,32,2,1058.3051,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0625
+TB MPAQP,2026-08-20,18,18,2,381.18645,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1111111111111111
+TB RBBR,2026-08-20,18,5,0,0.0,2.0,2.0,2,2,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-20,18,30,2,397.37289,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB PCSI,2026-08-20,19,5,1,192.71187,2.0,1.5,2,2,True,True,True,coincidencia_encontrada,2.0,1.5,0.2
+TB JPSU,2026-08-20,19,42,2,836.13645,5.0,5.0,7,7,True,True,True,coincidencia_encontrada,5.0,5.0,0.047619047619047616
+TB RPCIX 1,2026-08-20,19,10,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MASA,2026-08-20,19,9,1,304.23729,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB MACIX,2026-08-20,19,18,2,1236.18645,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB MAAQP,2026-08-20,19,17,2,934.0678,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.11764705882352941
+TB MPTRU,2026-08-20,19,66,4,1674.83053,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.06060606060606061
+TB RBSB,2026-08-20,19,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-20,19,38,6,2395.42376,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.15789473684210525
+TB RPPUR 1,2026-08-20,19,24,3,1565.16951,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB MGCHM,2026-08-20,19,19,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-20,19,16,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-20,19,18,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-20,19,21,2,549.74578,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.09523809523809523
+TB RBBR,2026-08-20,19,11,1,363.55933,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.09090909090909091
+TB LMMIR 2,2026-08-20,19,16,2,1029.83052,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB PCSI,2026-08-20,20,5,0,0.0,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB JPSU,2026-08-20,20,66,6,2486.16952,5.0,5.0,7,7,True,True,True,coincidencia_encontrada,5.0,5.0,0.09090909090909091
+TB RPCIX 1,2026-08-20,20,24,2,549.77968,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.08333333333333333
+TB MASA,2026-08-20,20,35,5,1806.35597,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.14285714285714285
+TB MACIX,2026-08-20,20,33,2,202.37289,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.06060606060606061
+TB MAAQP,2026-08-20,20,7,1,338.1356,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB MPTRU,2026-08-20,20,62,2,696.86442,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.03225806451612903
+TB RBSB,2026-08-20,20,8,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-20,20,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-20,20,19,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-20,20,22,1,380.50848,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.045454545454545456
+TB RPCUS,2026-08-20,20,7,2,1236.52628,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.2857142857142857
+TB RPPIU2,2026-08-20,20,17,2,770.2034,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.11764705882352941
+TB MPAQP,2026-08-20,20,4,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBBR,2026-08-20,20,21,3,178.13561,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.14285714285714285
+TB LMMIR 2,2026-08-20,20,18,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-20,21,1,0,0.0,,,2,2,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB JPSU,2026-08-20,21,42,4,1522.77968,4.0,4.0,7,7,True,True,True,coincidencia_encontrada,4.0,4.0,0.09523809523809523
+TB RPCIX 1,2026-08-20,21,17,2,367.45764,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.11764705882352941
+TB MASA,2026-08-20,21,10,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-20,21,5,1,169.32204,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MAAQP,2026-08-20,21,14,1,990.50848,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB MPTRU,2026-08-20,21,33,1,321.95,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.030303030303030304
+TB RBSB,2026-08-20,21,6,2,491.2712,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.3333333333333333
+TB MGIND,2026-08-20,21,27,2,834.2373,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.07407407407407407
+TB RPPUR 1,2026-08-20,21,13,2,1106.52544,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.15384615384615385
+TB MGCHM,2026-08-20,21,12,1,447.62712,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.08333333333333333
+TB RPCUS,2026-08-20,21,5,3,1015.28815,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.6
+TB RPPIU2,2026-08-20,21,24,1,550.76272,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.041666666666666664
+TB MPAQP,2026-08-20,21,16,3,670.50849,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.1875
+TB RBBR,2026-08-20,21,16,1,473.98306,1.0,1.0,2,2,True,True,True,coincidencia_encontrada,1.0,1.0,0.0625
+TB LMMIR 2,2026-08-20,21,15,1,332.45763,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.06666666666666667
+TB RPCIX 1,2026-08-20,22,0,3,630.25425,,,2,2,True,True,False,cero_confirmado,0.0,0.0,
+TB MPTRU,2026-08-20,22,0,2,413.72883,,,6,6,True,True,False,cero_confirmado,0.0,0.0,
+TB PCSI,2026-08-21,9,0,1,254.15255,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,
+TB PCSI,2026-08-21,10,13,1,473.98306,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB JPSU,2026-08-21,10,9,0,0.0,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCIX 1,2026-08-21,10,9,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-21,10,15,2,862.61018,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB MAAQP,2026-08-21,10,2,1,389.66102,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.5
+TB MPTRU,2026-08-21,10,8,1,507.88136,3.0,3.0,9,9,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB RBSB,2026-08-21,10,11,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-21,10,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPPUR 1,2026-08-21,10,2,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-21,10,5,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-21,10,7,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-21,10,11,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-21,10,10,1,202.54238,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.1
+TB RBBR,2026-08-21,10,9,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-21,10,8,0,0.0,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-21,11,39,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-21,11,20,1,422.79662,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.05
+TB RPCIX 1,2026-08-21,11,15,2,689.57628,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB MASA,2026-08-21,11,5,2,573.47459,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.4
+TB MACIX,2026-08-21,11,7,3,1668.22036,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.42857142857142855
+TB MAAQP,2026-08-21,11,3,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-21,11,28,0,0.0,3.0,3.0,9,9,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBSB,2026-08-21,11,8,4,823.59324,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.5
+TB MGIND,2026-08-21,11,8,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-21,11,6,3,948.03391,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.5
+TB RPCUS,2026-08-21,11,4,1,321.94916,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.25
+TB RPPIU2,2026-08-21,11,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-21,11,6,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-21,11,10,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-21,11,11,0,0.0,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB PCSI,2026-08-21,12,11,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-21,12,26,1,355.84746,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.038461538461538464
+TB RPCIX 1,2026-08-21,12,8,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-21,12,5,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-21,12,14,1,355.84746,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.07142857142857142
+TB MAAQP,2026-08-21,12,5,1,84.57628,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB MPTRU,2026-08-21,12,25,1,363.55933,4.0,4.0,9,9,True,True,True,coincidencia_encontrada,4.0,4.0,0.04
+TB RBSB,2026-08-21,12,8,1,321.94916,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB MGIND,2026-08-21,12,22,1,398.22,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.045454545454545456
+TB RPPUR 1,2026-08-21,12,2,1,407.11865,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.5
+TB MGCHM,2026-08-21,12,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-21,12,6,1,405.93221,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB RPPIU2,2026-08-21,12,15,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-21,12,4,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-21,12,1,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-21,12,17,1,363.55933,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.058823529411764705
+TB PCSI,2026-08-21,13,13,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-21,13,34,1,1346.52543,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.029411764705882353
+TB RPCIX 1,2026-08-21,13,17,1,532.54238,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB MASA,2026-08-21,13,6,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-21,13,20,1,405.84746,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.05
+TB MAAQP,2026-08-21,13,5,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-21,13,39,2,1641.44069,4.0,4.0,9,9,True,True,True,coincidencia_encontrada,4.0,4.0,0.05128205128205128
+TB RBSB,2026-08-21,13,8,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MGIND,2026-08-21,13,9,1,321.94916,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB RPPUR 1,2026-08-21,13,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGCHM,2026-08-21,13,11,1,398.22,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.09090909090909091
+TB RPCUS,2026-08-21,13,5,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPIU2,2026-08-21,13,20,3,1208.55934,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.15
+TB MPAQP,2026-08-21,13,10,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-21,13,7,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-21,13,28,3,972.03391,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.10714285714285714
+TB PCSI,2026-08-21,14,19,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-21,14,33,3,1066.77968,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.09090909090909091
+TB RPCIX 1,2026-08-21,14,8,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MASA,2026-08-21,14,7,2,719.40679,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.2857142857142857
+TB MACIX,2026-08-21,14,15,2,811.86442,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.13333333333333333
+TB MAAQP,2026-08-21,14,4,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB MPTRU,2026-08-21,14,29,0,0.0,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.0
+TB RBSB,2026-08-21,14,8,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MGIND,2026-08-21,14,13,1,338.1356,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB RPPUR 1,2026-08-21,14,5,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MGCHM,2026-08-21,14,11,2,736.27119,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.18181818181818182
+TB RPCUS,2026-08-21,14,13,0,0.0,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-21,14,20,2,760.03391,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1
+TB MPAQP,2026-08-21,14,17,2,574.57628,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.11764705882352941
+TB RBBR,2026-08-21,14,4,1,338.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.25
+TB LMMIR 2,2026-08-21,14,23,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB PCSI,2026-08-21,15,10,1,338.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB JPSU,2026-08-21,15,54,4,1819.32204,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.07407407407407407
+TB RPCIX 1,2026-08-21,15,17,2,719.40679,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.11764705882352941
+TB MASA,2026-08-21,15,7,1,304.23729,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB MACIX,2026-08-21,15,17,2,822.96611,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.11764705882352941
+TB MAAQP,2026-08-21,15,8,1,110.08475,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB MPTRU,2026-08-21,15,30,0,0.0,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.0
+TB RBSB,2026-08-21,15,6,1,321.95,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.16666666666666666
+TB MGIND,2026-08-21,15,17,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPPUR 1,2026-08-21,15,4,2,396.01696,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.5
+TB MGCHM,2026-08-21,15,8,3,226.47458,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.375
+TB RPCUS,2026-08-21,15,9,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RPPIU2,2026-08-21,15,2,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPAQP,2026-08-21,15,7,2,826.01696,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.2857142857142857
+TB RBBR,2026-08-21,15,10,1,338.1356,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB LMMIR 2,2026-08-21,15,19,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB PCSI,2026-08-21,16,15,1,397.37289,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB JPSU,2026-08-21,16,19,0,0.0,7.0,7.0,8,8,True,True,True,coincidencia_encontrada,7.0,7.0,0.0
+TB RPCIX 1,2026-08-21,16,16,2,1012.37289,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.125
+TB MASA,2026-08-21,16,16,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0625
+TB MACIX,2026-08-21,16,14,1,355.84746,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.07142857142857142
+TB MAAQP,2026-08-21,16,11,2,769.69492,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.18181818181818182
+TB MPTRU,2026-08-21,16,34,2,930.28815,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.058823529411764705
+TB RBSB,2026-08-21,16,12,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MGIND,2026-08-21,16,27,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-21,16,6,1,355.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB MGCHM,2026-08-21,16,6,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RPCUS,2026-08-21,16,16,1,355.84746,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0625
+TB MPAQP,2026-08-21,16,8,1,507.54238,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB RBBR,2026-08-21,16,12,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-21,16,27,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB PCSI,2026-08-21,17,10,0,0.0,3.0,2.5,3,3,True,True,True,coincidencia_encontrada,3.0,2.5,0.0
+TB JPSU,2026-08-21,17,32,1,363.55933,7.0,7.0,8,8,True,True,True,coincidencia_encontrada,7.0,7.0,0.03125
+TB RPCIX 1,2026-08-21,17,22,4,2520.67798,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.18181818181818182
+TB MASA,2026-08-21,17,12,1,355.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.08333333333333333
+TB MACIX,2026-08-21,17,24,2,660.08475,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.08333333333333333
+TB MAAQP,2026-08-21,17,5,2,457.45729,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.4
+TB MPTRU,2026-08-21,17,58,4,1500.93223,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.06896551724137931
+TB RBSB,2026-08-21,17,18,2,76.01696,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1111111111111111
+TB MGIND,2026-08-21,17,24,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-21,17,17,4,1389.49154,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.23529411764705882
+TB MGCHM,2026-08-21,17,13,4,700.40764,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.3076923076923077
+TB RPCUS,2026-08-21,17,16,2,603.22035,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB RPPIU2,2026-08-21,17,0,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,
+TB MPAQP,2026-08-21,17,7,1,354.57628,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.14285714285714285
+TB RBBR,2026-08-21,17,13,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB LMMIR 2,2026-08-21,17,16,2,440.33899,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB PCSI,2026-08-21,18,6,1,398.22,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.16666666666666666
+TB JPSU,2026-08-21,18,69,4,1940.00002,7.0,7.0,8,8,True,True,True,coincidencia_encontrada,7.0,7.0,0.057971014492753624
+TB RPCIX 1,2026-08-21,18,26,3,1558.05086,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.11538461538461539
+TB MASA,2026-08-21,18,14,1,550.2539,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB MACIX,2026-08-21,18,27,1,33.81356,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.037037037037037035
+TB MAAQP,2026-08-21,18,12,1,150.25424,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.08333333333333333
+TB MPTRU,2026-08-21,18,72,7,4313.64409,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.09722222222222222
+TB RBSB,2026-08-21,18,10,0,0.0,4.0,3.5,4,4,True,True,True,coincidencia_encontrada,4.0,3.5,0.0
+TB MGIND,2026-08-21,18,35,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.02857142857142857
+TB RPPUR 1,2026-08-21,18,18,2,761.69492,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB MGCHM,2026-08-21,18,27,1,448.30509,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.037037037037037035
+TB RPCUS,2026-08-21,18,18,2,126.86441,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.1111111111111111
+TB RPPIU2,2026-08-21,18,0,6,2224.94918,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,
+TB MPAQP,2026-08-21,18,15,1,59.23729,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.06666666666666667
+TB LMMIR 2,2026-08-21,18,28,3,1316.61019,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.10714285714285714
+TB PCSI,2026-08-21,19,5,1,633.76272,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB JPSU,2026-08-21,19,51,5,2114.91529,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.09803921568627451
+TB RPCIX 1,2026-08-21,19,25,3,1183.22036,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.12
+TB MASA,2026-08-21,19,2,1,507.79662,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.5
+TB MACIX,2026-08-21,19,34,5,1955.66104,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.14705882352941177
+TB MAAQP,2026-08-21,19,18,1,355.84746,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB MPTRU,2026-08-21,19,76,7,1985.15258,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.09210526315789473
+TB RBSB,2026-08-21,19,29,4,1146.4407,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.13793103448275862
+TB MGIND,2026-08-21,19,29,1,415.08475,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.034482758620689655
+TB RPPUR 1,2026-08-21,19,16,1,33.81356,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0625
+TB MGCHM,2026-08-21,19,22,2,948.98306,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB RPCUS,2026-08-21,19,11,1,592.37289,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.09090909090909091
+TB RPPIU2,2026-08-21,19,0,1,355.84746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,
+TB MPAQP,2026-08-21,19,19,5,2063.76274,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.2631578947368421
+TB RBBR,2026-08-21,19,16,2,135.45764,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.125
+TB LMMIR 2,2026-08-21,19,20,2,742.32204,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.1
+TB PCSI,2026-08-21,20,5,1,398.22034,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.2
+TB JPSU,2026-08-21,20,73,5,2416.3729,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.0684931506849315
+TB RPCIX 1,2026-08-21,20,41,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-21,20,5,1,711.69492,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MACIX,2026-08-21,20,26,3,1023.1356,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.11538461538461539
+TB MAAQP,2026-08-21,20,16,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-21,20,77,11,5310.83057,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.14285714285714285
+TB RBSB,2026-08-21,20,30,2,796.44068,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB MGIND,2026-08-21,20,19,1,355.84746,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.05263157894736842
+TB RPPUR 1,2026-08-21,20,14,1,321.18645,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB MGCHM,2026-08-21,20,27,2,1541.35594,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.07407407407407407
+TB RPCUS,2026-08-21,20,9,1,593.1356,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB RPPIU2,2026-08-21,20,0,1,355.84746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,
+TB MPAQP,2026-08-21,20,14,2,464.40679,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB RBBR,2026-08-21,20,7,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-21,20,25,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-21,21,2,0,0.0,,,3,3,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB JPSU,2026-08-21,21,77,6,1881.55935,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.07792207792207792
+TB RPCIX 1,2026-08-21,21,42,5,1359.86443,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.11904761904761904
+TB MASA,2026-08-21,21,11,1,422.74577,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MACIX,2026-08-21,21,13,1,381.18645,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.07692307692307693
+TB MAAQP,2026-08-21,21,10,1,361.81356,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.1
+TB MPTRU,2026-08-21,21,38,4,1683.64409,5.0,5.0,9,9,True,True,True,coincidencia_encontrada,5.0,5.0,0.10526315789473684
+TB RBSB,2026-08-21,21,31,3,1061.76273,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0967741935483871
+TB MGIND,2026-08-21,21,19,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-21,21,12,1,398.22034,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.08333333333333333
+TB MGCHM,2026-08-21,21,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPCUS,2026-08-21,21,1,1,100.84746,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,1.0
+TB RPPIU2,2026-08-21,21,0,1,626.94916,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,
+TB MPAQP,2026-08-21,21,14,1,643.89831,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB RBBR,2026-08-21,21,6,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-21,21,22,1,406.64407,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.045454545454545456
+TB JPSU,2026-08-21,22,0,1,398.22,,,8,8,True,True,False,cero_confirmado,0.0,0.0,
+TB RPCIX 1,2026-08-21,22,0,1,108.33899,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB MPTRU,2026-08-21,22,0,1,363.55933,,,9,9,True,True,False,cero_confirmado,0.0,0.0,
+TB RPPUR 1,2026-08-21,22,0,1,355.84746,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB RBBR,2026-08-21,22,0,1,321.95,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB RPCUS,2026-08-22,9,5,0,0.0,,,5,5,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-22,10,4,2,322.2373,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.5
+TB JPSU,2026-08-22,10,11,2,1193.72967,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.18181818181818182
+TB RPCIX 1,2026-08-22,10,15,1,592.37289,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.06666666666666667
+TB MASA,2026-08-22,10,5,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-22,10,9,1,618.47458,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB MAAQP,2026-08-22,10,1,0,0.0,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RBSB,2026-08-22,10,9,1,185.50848,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB MGIND,2026-08-22,10,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-22,10,2,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-22,10,7,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-22,10,2,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-22,10,6,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-22,10,5,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-22,10,5,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-22,10,8,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB PCSI,2026-08-22,11,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-22,11,22,1,626.94916,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.045454545454545456
+TB RPCIX 1,2026-08-22,11,9,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-22,11,2,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-22,11,10,2,559.98306,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MAAQP,2026-08-22,11,7,0,0.0,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RBSB,2026-08-22,11,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-22,11,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-22,11,11,1,398.22034,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.09090909090909091
+TB MGCHM,2026-08-22,11,3,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-22,11,5,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-22,11,16,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-22,11,5,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-22,11,5,1,108.33899,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB LMMIR 2,2026-08-22,11,16,5,1800.49157,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.3125
+TB PCSI,2026-08-22,12,17,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-22,12,48,3,1540.59324,4.0,4.0,8,8,True,True,True,coincidencia_encontrada,4.0,4.0,0.0625
+TB RPCIX 1,2026-08-22,12,33,1,385.42373,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.030303030303030304
+TB MASA,2026-08-22,12,8,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MACIX,2026-08-22,12,22,4,1404.57629,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.18181818181818182
+TB MAAQP,2026-08-22,12,12,3,854.06783,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.25
+TB RBSB,2026-08-22,12,9,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MGIND,2026-08-22,12,32,3,1087.79663,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.09375
+TB RPPUR 1,2026-08-22,12,26,3,982.03391,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.11538461538461539
+TB MGCHM,2026-08-22,12,2,1,355.84746,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.5
+TB RPCUS,2026-08-22,12,10,1,592.37289,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB RPPIU2,2026-08-22,12,20,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-22,12,4,0,0.0,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RBBR,2026-08-22,12,5,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-22,12,40,4,1235.67801,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB PCSI,2026-08-22,13,8,0,0.0,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-22,13,76,3,1720.50849,4.0,4.0,8,8,True,True,True,coincidencia_encontrada,4.0,4.0,0.039473684210526314
+TB RPCIX 1,2026-08-22,13,13,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-22,13,4,1,160.88136,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.25
+TB MACIX,2026-08-22,13,16,0,0.0,2.0,2.0,6,6,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MAAQP,2026-08-22,13,11,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBSB,2026-08-22,13,14,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.07142857142857142
+TB MGIND,2026-08-22,13,24,1,600.33899,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.041666666666666664
+TB RPPUR 1,2026-08-22,13,20,1,93.05085,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.05
+TB MGCHM,2026-08-22,13,19,1,355.84746,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.05263157894736842
+TB RPCUS,2026-08-22,13,21,1,436.69492,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB RPPIU2,2026-08-22,13,26,4,2275.5424,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.15384615384615385
+TB MPAQP,2026-08-22,13,21,2,662.15255,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.09523809523809523
+TB RBBR,2026-08-22,13,9,1,338.1356,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB LMMIR 2,2026-08-22,13,21,1,33.81356,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB PCSI,2026-08-22,14,3,1,169.32204,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.3333333333333333
+TB JPSU,2026-08-22,14,37,2,1220.96611,7.0,7.0,8,8,True,True,True,coincidencia_encontrada,7.0,7.0,0.05405405405405406
+TB RPCIX 1,2026-08-22,14,9,2,554.0678,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2222222222222222
+TB MASA,2026-08-22,14,3,2,719.40645,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.6666666666666666
+TB MACIX,2026-08-22,14,29,4,1522.74579,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.13793103448275862
+TB MAAQP,2026-08-22,14,9,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RBSB,2026-08-22,14,28,3,903.88137,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.10714285714285714
+TB MGIND,2026-08-22,14,30,2,786.61018,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.06666666666666667
+TB RPPUR 1,2026-08-22,14,9,1,398.22034,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1111111111111111
+TB MGCHM,2026-08-22,14,13,3,818.81358,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.23076923076923078
+TB RPCUS,2026-08-22,14,15,2,1176.86441,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.13333333333333333
+TB RPPIU2,2026-08-22,14,18,3,1389.06781,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.16666666666666666
+TB MPAQP,2026-08-22,14,22,2,354.83054,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.09090909090909091
+TB RBBR,2026-08-22,14,10,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-22,14,37,1,169.32204,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.02702702702702703
+TB PCSI,2026-08-22,15,6,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-22,15,104,7,6539.32207,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.0673076923076923
+TB RPCIX 1,2026-08-22,15,31,1,593.1356,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.03225806451612903
+TB MASA,2026-08-22,15,13,1,321.95,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.07692307692307693
+TB MACIX,2026-08-22,15,17,2,712.88136,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.11764705882352941
+TB MAAQP,2026-08-22,15,13,4,1171.10172,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.3076923076923077
+TB RBSB,2026-08-22,15,14,1,753.38984,4.0,3.5,4,4,True,True,True,coincidencia_encontrada,4.0,3.5,0.07142857142857142
+TB MGIND,2026-08-22,15,24,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPUR 1,2026-08-22,15,34,4,1539.44069,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.11764705882352941
+TB MGCHM,2026-08-22,15,10,2,666.30509,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2
+TB RPCUS,2026-08-22,15,11,1,338.1356,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.09090909090909091
+TB RPPIU2,2026-08-22,15,10,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1
+TB MPAQP,2026-08-22,15,21,3,676.86442,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.14285714285714285
+TB RBBR,2026-08-22,15,8,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-22,15,26,2,872.37289,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.07692307692307693
+TB PCSI,2026-08-22,16,3,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-22,16,73,5,2679.44036,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.0684931506849315
+TB RPCIX 1,2026-08-22,16,20,2,720.17034,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.1
+TB MASA,2026-08-22,16,5,1,321.18645,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB MACIX,2026-08-22,16,25,3,1363.3051,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.12
+TB MAAQP,2026-08-22,16,10,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RBSB,2026-08-22,16,32,2,447.2373,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.0625
+TB MGIND,2026-08-22,16,22,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.045454545454545456
+TB RPPUR 1,2026-08-22,16,24,3,1221.84714,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.125
+TB MGCHM,2026-08-22,16,20,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPCUS,2026-08-22,16,33,3,1843.98273,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.09090909090909091
+TB RPPIU2,2026-08-22,16,33,2,1101.56018,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.06060606060606061
+TB MPAQP,2026-08-22,16,20,5,2197.79663,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.25
+TB RBBR,2026-08-22,16,7,0,0.0,3.0,2.5,3,3,True,True,True,coincidencia_encontrada,3.0,2.5,0.0
+TB LMMIR 2,2026-08-22,16,33,0,0.0,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB PCSI,2026-08-22,17,11,0,0.0,4.0,3.5,4,4,True,True,True,coincidencia_encontrada,4.0,3.5,0.0
+TB JPSU,2026-08-22,17,102,10,3894.10175,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.09803921568627451
+TB RPCIX 1,2026-08-22,17,30,2,804.15255,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.06666666666666667
+TB MASA,2026-08-22,17,13,2,710.1695,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.15384615384615385
+TB MACIX,2026-08-22,17,34,3,1490.339,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.08823529411764706
+TB MAAQP,2026-08-22,17,14,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RBSB,2026-08-22,17,21,2,863.64408,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.09523809523809523
+TB MGIND,2026-08-22,17,47,3,905.67798,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.06382978723404255
+TB RPPUR 1,2026-08-22,17,25,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MGCHM,2026-08-22,17,15,2,693.98306,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.13333333333333333
+TB RPCUS,2026-08-22,17,23,5,1927.11867,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.21739130434782608
+TB RPPIU2,2026-08-22,17,50,3,819.27204,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.06
+TB MPAQP,2026-08-22,17,19,1,116.81356,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.05263157894736842
+TB RBBR,2026-08-22,17,14,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-22,17,40,1,355.84746,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.025
+TB PCSI,2026-08-22,18,3,1,355.84746,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.3333333333333333
+TB JPSU,2026-08-22,18,90,7,3106.69495,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.07777777777777778
+TB RPCIX 1,2026-08-22,18,59,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MASA,2026-08-22,18,10,1,397.37289,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.1
+TB MACIX,2026-08-22,18,46,8,1662.23732,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.17391304347826086
+TB MAAQP,2026-08-22,18,37,2,718.59323,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.05405405405405406
+TB MPTRU,2026-08-22,18,81,11,3375.83141,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.13580246913580246
+TB RBSB,2026-08-22,18,34,2,1176.10171,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.058823529411764705
+TB MGIND,2026-08-22,18,76,3,1253.22035,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.039473684210526314
+TB RPPUR 1,2026-08-22,18,42,2,440.50848,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.047619047619047616
+TB MGCHM,2026-08-22,18,18,1,108.33899,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.05555555555555555
+TB RPCUS,2026-08-22,18,22,3,1245.71188,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.13636363636363635
+TB RPPIU2,2026-08-22,18,33,3,1083.64493,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB MPAQP,2026-08-22,18,19,3,1111.27086,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.15789473684210525
+TB RBBR,2026-08-22,18,15,2,99.88984,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB LMMIR 2,2026-08-22,18,39,2,1116.94917,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.05128205128205128
+TB PCSI,2026-08-22,19,10,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-22,19,122,8,4038.8475,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.06557377049180328
+TB RPCIX 1,2026-08-22,19,45,3,977.71188,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB MASA,2026-08-22,19,31,2,525.1695,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.06451612903225806
+TB MACIX,2026-08-22,19,40,6,2677.88138,5.0,5.0,6,6,True,True,True,coincidencia_encontrada,5.0,5.0,0.15
+TB MAAQP,2026-08-22,19,34,2,670.67797,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.058823529411764705
+TB MPTRU,2026-08-22,19,99,21,7181.98279,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.21212121212121213
+TB RBSB,2026-08-22,19,23,1,626.18645,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.043478260869565216
+TB MGIND,2026-08-22,19,63,4,2097.71188,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.06349206349206349
+TB RPPUR 1,2026-08-22,19,29,6,1970.93188,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.20689655172413793
+TB MGCHM,2026-08-22,19,30,2,948.98306,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB RPCUS,2026-08-22,19,27,4,946.4407,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.14814814814814814
+TB RPPIU2,2026-08-22,19,54,3,1033.64408,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.05555555555555555
+TB MPAQP,2026-08-22,19,34,1,363.55933,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.029411764705882353
+TB RBBR,2026-08-22,19,12,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-22,19,44,5,2833.678,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.11363636363636363
+TB PCSI,2026-08-22,20,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-22,20,96,6,2118.22037,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.0625
+TB RPCIX 1,2026-08-22,20,46,2,1226.94916,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.043478260869565216
+TB MASA,2026-08-22,20,18,1,183.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB MACIX,2026-08-22,20,23,1,694.32204,5.0,5.0,6,6,True,True,True,coincidencia_encontrada,5.0,5.0,0.043478260869565216
+TB MAAQP,2026-08-22,20,16,4,1688.59325,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.25
+TB MPTRU,2026-08-22,20,127,20,8837.33991,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.15748031496062992
+TB RBSB,2026-08-22,20,27,2,840.08476,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.07407407407407407
+TB MGIND,2026-08-22,20,52,3,1395.59324,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.057692307692307696
+TB RPPUR 1,2026-08-22,20,12,2,659.15256,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB MGCHM,2026-08-22,20,37,4,1021.81358,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.10810810810810811
+TB RPCUS,2026-08-22,20,15,1,54.91526,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB RPPIU2,2026-08-22,20,26,2,548.50848,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.07692307692307693
+TB MPAQP,2026-08-22,20,29,2,929.83052,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.06896551724137931
+TB RBBR,2026-08-22,20,15,1,329.57628,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.06666666666666667
+TB LMMIR 2,2026-08-22,20,25,1,718.64407,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.04
+TB JPSU,2026-08-22,21,69,2,774.40763,4.0,4.0,8,8,True,True,True,coincidencia_encontrada,4.0,4.0,0.028985507246376812
+TB RPCIX 1,2026-08-22,21,39,2,385.42374,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.05128205128205128
+TB MASA,2026-08-22,21,4,2,422.79746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.5
+TB MACIX,2026-08-22,21,41,2,845.84746,5.0,5.0,6,6,True,True,True,coincidencia_encontrada,5.0,5.0,0.04878048780487805
+TB MAAQP,2026-08-22,21,12,2,710.00001,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB MPTRU,2026-08-22,21,84,6,3309.23732,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.07142857142857142
+TB RBSB,2026-08-22,21,20,1,626.94916,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.05
+TB MGIND,2026-08-22,21,39,1,608.47458,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.02564102564102564
+TB RPPUR 1,2026-08-22,21,6,2,667.62713,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.3333333333333333
+TB MGCHM,2026-08-22,21,24,4,1234.74578,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB RPCUS,2026-08-22,21,1,1,676.27119,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,1.0
+TB RPPIU2,2026-08-22,21,51,5,1284.69493,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.09803921568627451
+TB MPAQP,2026-08-22,21,17,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-22,21,25,2,59.15255,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.08
+TB LMMIR 2,2026-08-22,21,16,0,0.0,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-22,22,0,3,797.54239,,,8,8,True,True,False,cero_confirmado,0.0,0.0,
+TB RPCIX 1,2026-08-22,22,0,2,419.2373,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB MAAQP,2026-08-22,22,0,1,406.64407,,,5,5,True,True,False,cero_confirmado,0.0,0.0,
+TB MPTRU,2026-08-22,22,0,7,3974.35067,,,9,9,True,True,False,cero_confirmado,0.0,0.0,
+TB MGIND,2026-08-22,22,0,3,837.88137,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB MGCHM,2026-08-22,22,0,2,1033.64408,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB RPPIU2,2026-08-22,22,0,1,559.23729,,,4,4,True,True,False,cero_confirmado,0.0,0.0,
+TB MPAQP,2026-08-22,22,0,1,67.71187,,,5,5,True,True,False,cero_confirmado,0.0,0.0,
+TB RBBR,2026-08-22,22,0,5,1230.5085,,,3,3,True,True,False,cero_confirmado,0.0,0.0,
+TB LMMIR 2,2026-08-22,22,0,1,803.64407,,,5,5,True,True,False,cero_confirmado,0.0,0.0,
+TB RPCUS,2026-08-23,9,4,0,0.0,,,5,5,True,True,False,cero_confirmado,0.0,0.0,0.0
+TB PCSI,2026-08-23,10,2,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-23,10,14,1,254.15255,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB RPCIX 1,2026-08-23,10,7,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-23,10,12,1,363.55933,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.08333333333333333
+TB MACIX,2026-08-23,10,5,1,464.66102,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.2
+TB MAAQP,2026-08-23,10,2,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPTRU,2026-08-23,10,15,0,0.0,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.0
+TB RBSB,2026-08-23,10,1,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-23,10,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-23,10,8,2,760.03356,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.25
+TB MGCHM,2026-08-23,10,4,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-23,10,7,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPIU2,2026-08-23,10,7,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-23,10,4,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RBBR,2026-08-23,10,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-23,10,9,1,355.84746,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.1111111111111111
+TB PCSI,2026-08-23,11,2,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-23,11,42,1,448.30509,3.0,3.0,8,8,True,True,True,coincidencia_encontrada,3.0,3.0,0.023809523809523808
+TB RPCIX 1,2026-08-23,11,13,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MASA,2026-08-23,11,1,1,515.59323,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,1.0
+TB MACIX,2026-08-23,11,9,0,0.0,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MAAQP,2026-08-23,11,13,2,516.01696,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.15384615384615385
+TB MPTRU,2026-08-23,11,36,1,304.23729,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.027777777777777776
+TB RBSB,2026-08-23,11,1,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGIND,2026-08-23,11,10,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB RPPUR 1,2026-08-23,11,9,2,711.69492,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.2222222222222222
+TB MGCHM,2026-08-23,11,5,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-23,11,5,1,363.55933,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB RPPIU2,2026-08-23,11,5,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MPAQP,2026-08-23,11,5,0,0.0,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-23,11,30,2,738.47459,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.06666666666666667
+TB PCSI,2026-08-23,12,7,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-23,12,87,8,5499.57633,4.0,4.0,8,8,True,True,True,coincidencia_encontrada,4.0,4.0,0.09195402298850575
+TB RPCIX 1,2026-08-23,12,23,2,787.15255,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.08695652173913043
+TB MASA,2026-08-23,12,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MACIX,2026-08-23,12,10,0,0.0,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MAAQP,2026-08-23,12,22,2,931.52544,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.09090909090909091
+TB MPTRU,2026-08-23,12,42,4,1770.45764,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.09523809523809523
+TB RBSB,2026-08-23,12,13,1,397.37289,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.07692307692307693
+TB MGIND,2026-08-23,12,19,2,1871.44069,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.10526315789473684
+TB RPPUR 1,2026-08-23,12,12,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB MGCHM,2026-08-23,12,9,0,0.0,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB RPCUS,2026-08-23,12,6,0,0.0,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-23,12,22,1,507.88136,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.045454545454545456
+TB MPAQP,2026-08-23,12,6,1,59.23729,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.16666666666666666
+TB RBBR,2026-08-23,12,9,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-23,12,24,1,321.95,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.041666666666666664
+TB PCSI,2026-08-23,13,5,2,227.88136,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.4
+TB JPSU,2026-08-23,13,81,3,2015.00002,4.0,4.0,8,8,True,True,True,coincidencia_encontrada,4.0,4.0,0.037037037037037035
+TB RPCIX 1,2026-08-23,13,10,1,397.37289,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.1
+TB MASA,2026-08-23,13,5,1,592.37289,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.2
+TB MACIX,2026-08-23,13,28,0,0.0,3.0,3.0,6,6,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MAAQP,2026-08-23,13,20,1,727.11865,2.0,2.0,5,5,True,True,True,coincidencia_encontrada,2.0,2.0,0.05
+TB MPTRU,2026-08-23,13,59,5,4018.76275,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.0847457627118644
+TB RBSB,2026-08-23,13,16,2,1270.16951,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.125
+TB MGIND,2026-08-23,13,44,2,744.83052,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.045454545454545456
+TB RPPUR 1,2026-08-23,13,11,1,355.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.09090909090909091
+TB MGCHM,2026-08-23,13,18,2,641.86442,1.0,1.0,4,4,True,True,True,coincidencia_encontrada,1.0,1.0,0.1111111111111111
+TB RPCUS,2026-08-23,13,16,0,0.0,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPIU2,2026-08-23,13,8,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MPAQP,2026-08-23,13,24,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB RBBR,2026-08-23,13,10,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-23,13,24,2,720.17034,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.08333333333333333
+TB PCSI,2026-08-23,14,7,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-23,14,96,7,3196.18732,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.07291666666666667
+TB RPCIX 1,2026-08-23,14,24,1,808.22034,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.041666666666666664
+TB MASA,2026-08-23,14,6,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MACIX,2026-08-23,14,26,2,514.2712,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.07692307692307693
+TB MAAQP,2026-08-23,14,22,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB MPTRU,2026-08-23,14,72,4,2469.4068,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.05555555555555555
+TB RBSB,2026-08-23,14,19,2,604.91527,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.10526315789473684
+TB MGIND,2026-08-23,14,29,1,76.18645,3.0,2.5,4,4,True,True,True,coincidencia_encontrada,3.0,2.5,0.034482758620689655
+TB RPPUR 1,2026-08-23,14,23,1,355.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.043478260869565216
+TB MGCHM,2026-08-23,14,11,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPCUS,2026-08-23,14,20,1,169.32205,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.05
+TB RPPIU2,2026-08-23,14,28,1,449.01662,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.03571428571428571
+TB MPAQP,2026-08-23,14,11,2,746.86442,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.18181818181818182
+TB RBBR,2026-08-23,14,15,4,1455.76273,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.26666666666666666
+TB LMMIR 2,2026-08-23,14,30,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB PCSI,2026-08-23,15,3,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-23,15,99,3,2140.59324,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.030303030303030304
+TB RPCIX 1,2026-08-23,15,31,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MASA,2026-08-23,15,19,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MACIX,2026-08-23,15,46,2,769.44069,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.043478260869565216
+TB MAAQP,2026-08-23,15,20,3,1901.61019,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.15
+TB MPTRU,2026-08-23,15,92,6,2984.86443,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.06521739130434782
+TB RBSB,2026-08-23,15,15,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MGIND,2026-08-23,15,36,2,646.69492,4.0,3.5,4,4,True,True,True,coincidencia_encontrada,4.0,3.5,0.05555555555555555
+TB RPPUR 1,2026-08-23,15,17,2,782.94916,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.11764705882352941
+TB MGCHM,2026-08-23,15,13,1,398.22,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.07692307692307693
+TB RPCUS,2026-08-23,15,22,3,735.49154,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.13636363636363635
+TB RPPIU2,2026-08-23,15,37,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB MPAQP,2026-08-23,15,9,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RBBR,2026-08-23,15,9,1,429.15255,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.1111111111111111
+TB LMMIR 2,2026-08-23,15,39,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB PCSI,2026-08-23,16,14,1,398.22,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.07142857142857142
+TB JPSU,2026-08-23,16,89,3,2565.67883,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.033707865168539325
+TB RPCIX 1,2026-08-23,16,37,4,710.59324,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.10810810810810811
+TB MASA,2026-08-23,16,29,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.034482758620689655
+TB MACIX,2026-08-23,16,27,4,1319.18646,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.14814814814814814
+TB MAAQP,2026-08-23,16,16,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB MPTRU,2026-08-23,16,119,6,2444.86443,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.05042016806722689
+TB RBSB,2026-08-23,16,29,2,583.72882,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.06896551724137931
+TB MGIND,2026-08-23,16,34,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB RPPUR 1,2026-08-23,16,23,2,693.1356,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.08695652173913043
+TB MGCHM,2026-08-23,16,19,2,753.22035,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.10526315789473684
+TB RPCUS,2026-08-23,16,28,2,582.11865,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.07142857142857142
+TB RPPIU2,2026-08-23,16,70,2,1041.44069,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.02857142857142857
+TB MPAQP,2026-08-23,16,24,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB RBBR,2026-08-23,16,9,2,719.40679,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.2222222222222222
+TB LMMIR 2,2026-08-23,16,32,2,1004.57628,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0625
+TB PCSI,2026-08-23,17,4,0,0.0,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.0
+TB JPSU,2026-08-23,17,143,10,5850.16921,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.06993006993006994
+TB RPCIX 1,2026-08-23,17,14,4,1398.98307,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.2857142857142857
+TB MASA,2026-08-23,17,23,5,1460.62679,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.21739130434782608
+TB MACIX,2026-08-23,17,33,5,1690.11866,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.15151515151515152
+TB MAAQP,2026-08-23,17,24,1,355.84746,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.041666666666666664
+TB MPTRU,2026-08-23,17,169,11,4507.13649,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.0650887573964497
+TB RBSB,2026-08-23,17,32,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.03125
+TB MGIND,2026-08-23,17,58,3,550.339,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.05172413793103448
+TB RPPUR 1,2026-08-23,17,20,3,1015.93221,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.15
+TB MGCHM,2026-08-23,17,24,1,355.84746,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.041666666666666664
+TB RPCUS,2026-08-23,17,22,1,439.74577,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.045454545454545456
+TB RPPIU2,2026-08-23,17,38,4,1348.08477,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.10526315789473684
+TB MPAQP,2026-08-23,17,32,4,1429.2712,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB RBBR,2026-08-23,17,10,0,0.0,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB LMMIR 2,2026-08-23,17,24,3,1218.38985,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.125
+TB PCSI,2026-08-23,18,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-23,18,152,5,3087.66107,8.0,8.0,8,8,True,True,True,coincidencia_encontrada,8.0,8.0,0.03289473684210526
+TB RPCIX 1,2026-08-23,18,25,3,1104.83052,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.12
+TB MASA,2026-08-23,18,29,1,700.59323,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.034482758620689655
+TB MACIX,2026-08-23,18,51,3,879.3556,6.0,6.0,6,6,True,True,True,coincidencia_encontrada,6.0,6.0,0.058823529411764705
+TB MAAQP,2026-08-23,18,15,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB MPTRU,2026-08-23,18,146,9,4098.16919,9.0,9.0,9,9,True,True,True,coincidencia_encontrada,9.0,9.0,0.06164383561643835
+TB RBSB,2026-08-23,18,37,1,397.37289,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.02702702702702703
+TB MGIND,2026-08-23,18,63,1,593.1356,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.015873015873015872
+TB RPPUR 1,2026-08-23,18,36,3,1131.98273,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.08333333333333333
+TB MGCHM,2026-08-23,18,35,3,1875.15255,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.08571428571428572
+TB RPCUS,2026-08-23,18,33,3,1136.18645,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.09090909090909091
+TB RPPIU2,2026-08-23,18,43,1,304.23729,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.023255813953488372
+TB MPAQP,2026-08-23,18,19,2,844.44069,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.10526315789473684
+TB RBBR,2026-08-23,18,16,2,626.18729,3.0,3.0,3,3,True,True,True,coincidencia_encontrada,3.0,3.0,0.125
+TB LMMIR 2,2026-08-23,18,35,1,448.30509,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.02857142857142857
+TB PCSI,2026-08-23,19,1,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-23,19,123,3,1277.88137,6.0,6.0,8,8,True,True,True,coincidencia_encontrada,6.0,6.0,0.024390243902439025
+TB RPCIX 1,2026-08-23,19,43,3,1452.49239,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.06976744186046512
+TB MASA,2026-08-23,19,44,4,1760.67799,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.09090909090909091
+TB MACIX,2026-08-23,19,42,2,703.1356,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.047619047619047616
+TB MAAQP,2026-08-23,19,30,2,679.91527,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.06666666666666667
+TB MPTRU,2026-08-23,19,151,10,4672.11955,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.06622516556291391
+TB RBSB,2026-08-23,19,29,4,829.15257,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.13793103448275862
+TB MGIND,2026-08-23,19,66,3,507.45764,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.045454545454545456
+TB RPPUR 1,2026-08-23,19,31,1,45.71187,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.03225806451612903
+TB MGCHM,2026-08-23,19,59,4,876.01697,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.06779661016949153
+TB RPCUS,2026-08-23,19,27,1,400.33899,4.0,4.0,5,5,True,True,True,coincidencia_encontrada,4.0,4.0,0.037037037037037035
+TB RPPIU2,2026-08-23,19,39,1,684.15255,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.02564102564102564
+TB MPAQP,2026-08-23,19,19,1,396.47458,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.05263157894736842
+TB RBBR,2026-08-23,19,10,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-23,19,44,2,741.27119,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.045454545454545456
+TB PCSI,2026-08-23,20,4,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB JPSU,2026-08-23,20,107,6,3828.22478,6.0,6.0,8,8,True,True,True,coincidencia_encontrada,6.0,6.0,0.056074766355140186
+TB RPCIX 1,2026-08-23,20,45,6,3139.25428,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.13333333333333333
+TB MASA,2026-08-23,20,35,1,1126.77967,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.02857142857142857
+TB MACIX,2026-08-23,20,35,1,304.0678,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.02857142857142857
+TB MAAQP,2026-08-23,20,34,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-23,20,100,8,3396.47462,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.08
+TB RBSB,2026-08-23,20,17,2,626.94916,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.11764705882352941
+TB MGIND,2026-08-23,20,64,2,643.13561,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.03125
+TB RPPUR 1,2026-08-23,20,36,3,1173.98307,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.08333333333333333
+TB MGCHM,2026-08-23,20,30,1,557.96611,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.03333333333333333
+TB RPCUS,2026-08-23,20,22,6,2601.6441,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.2727272727272727
+TB RPPIU2,2026-08-23,20,59,3,1082.2034,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.05084745762711865
+TB MPAQP,2026-08-23,20,14,2,685.50849,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.14285714285714285
+TB RBBR,2026-08-23,20,11,0,0.0,2.0,2.0,3,3,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB LMMIR 2,2026-08-23,20,18,0,0.0,5.0,5.0,5,5,True,True,True,coincidencia_encontrada,5.0,5.0,0.0
+TB JPSU,2026-08-23,21,52,2,1082.88137,5.0,5.0,8,8,True,True,True,coincidencia_encontrada,5.0,5.0,0.038461538461538464
+TB RPCIX 1,2026-08-23,21,61,2,779.40679,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.03278688524590164
+TB MASA,2026-08-23,21,33,4,1621.01664,4.0,4.0,4,4,True,True,True,coincidencia_encontrada,4.0,4.0,0.12121212121212122
+TB MACIX,2026-08-23,21,21,5,1316.93223,4.0,4.0,6,6,True,True,True,coincidencia_encontrada,4.0,4.0,0.23809523809523808
+TB MAAQP,2026-08-23,21,17,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB MPTRU,2026-08-23,21,111,6,3831.01697,6.0,6.0,9,9,True,True,True,coincidencia_encontrada,6.0,6.0,0.05405405405405406
+TB RBSB,2026-08-23,21,15,0,0.0,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.0
+TB MGIND,2026-08-23,21,41,2,677.79662,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.04878048780487805
+TB RPPUR 1,2026-08-23,21,14,1,593.1356,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.07142857142857142
+TB MGCHM,2026-08-23,21,18,1,355.84746,3.0,3.0,4,4,True,True,True,coincidencia_encontrada,3.0,3.0,0.05555555555555555
+TB RPCUS,2026-08-23,21,9,1,527.45763,1.0,1.0,5,5,True,True,True,coincidencia_encontrada,1.0,1.0,0.1111111111111111
+TB RPPIU2,2026-08-23,21,17,1,507.88136,2.0,2.0,4,4,True,True,True,coincidencia_encontrada,2.0,2.0,0.058823529411764705
+TB MPAQP,2026-08-23,21,7,2,1114.27121,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.2857142857142857
+TB RBBR,2026-08-23,21,4,0,0.0,1.0,1.0,3,3,True,True,True,coincidencia_encontrada,1.0,1.0,0.0
+TB LMMIR 2,2026-08-23,21,6,0,0.0,3.0,3.0,5,5,True,True,True,coincidencia_encontrada,3.0,3.0,0.0
+TB JPSU,2026-08-23,22,0,3,1083.22035,,,8,8,True,True,False,cero_confirmado,0.0,0.0,
+TB MACIX,2026-08-23,22,0,1,25.33899,,,6,6,True,True,False,cero_confirmado,0.0,0.0,
+TB MAAQP,2026-08-23,22,0,1,152.0339,,,5,5,True,True,False,cero_confirmado,0.0,0.0,
+TB MPTRU,2026-08-23,22,0,1,711.69492,,,9,9,True,True,False,cero_confirmado,0.0,0.0,
+TB RPPIU2,2026-08-23,22,0,6,2441.16951,,,4,4,True,True,False,cero_confirmado,0.0,0.0,

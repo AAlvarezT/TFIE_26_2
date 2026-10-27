@@ -1,2 +1,2 @@
-periodo,filas_ventas,filas_con_match,sin_match,flujo_cero,transacciones_gt_flujo
-2026-08-17 a 2026-08-23,1361,1349,12,41,41
+periodo_ventas,filas_ventas,tiendas_ventas,filas_coincidencia,filas_cero_confirmado,filas_horario_ausente,filas_dudosas_no_emparejadas,flujo_cero,transacciones_gt_flujo,fecha_min_horarios_tb,fecha_max_horarios_tb
+2026-08-17 a 2026-08-23,1361,16,1313,48,0,0,41,41,2026-08-17,2026-09-20
